@@ -1,0 +1,19 @@
+/* Add this CSS to your main stylesheet */
+.container-page {
+  margin-left: 20px; /* Width of the sidebar */
+  padding: 40px;
+}
+
+h1, h4 {
+  margin-top: 20px;
+}
+
+.section {
+  margin-bottom: 30px;
+}
+
+.section h2 {
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+
+}
